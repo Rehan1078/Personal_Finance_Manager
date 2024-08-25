@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PFM2</string>
+    <string name="developer">Developer: Muhammad Usman</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="overview">Overview</string>
+    <string name="transaction">Transaction</string>
+    <string name="report">Report</string>
+</resources>
